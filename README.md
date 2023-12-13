@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @jackhemp
 - 👀 I’m interested in e-commerce development
-- 🌱 I’m currently learning Full Stack Developer in soyhenry.com
+- 🌱 I’m currently learning Full Stack Developer by myself
